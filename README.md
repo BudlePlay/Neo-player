@@ -28,3 +28,6 @@ FPS sword game using unreal engine 4.
 [gesture classification](https://github.com/BudlePlay/np-gesture)  
 [gesture collector](https://github.com/BudlePlay/np-collector)  
 [communicate pc & light saber](https://github.com/BudlePlay/np-communication)  
+ 
+- [X] Transfer data from Arduino to PC and predictions gesture from PC  
+- [ ] Arduino predictions gesture and send result (Tiny ML)  
