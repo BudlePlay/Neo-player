@@ -1,7 +1,5 @@
 # Neo-player
 
-
-
 ## Contributors
 
 Thanks goes to these wonderful people:
@@ -21,3 +19,12 @@ Thanks goes to these wonderful people:
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+# 
+## Game
+FPS sword game using unreal engine 4.  
+
+## Light saber
+[gesture classification](https://github.com/BudlePlay/np-gesture)  
+[gesture collector](https://github.com/BudlePlay/np-collector)  
+[communicate pc & light saber](https://github.com/BudlePlay/np-communication)  
